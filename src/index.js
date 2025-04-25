@@ -4,7 +4,7 @@ import SeedsOfHopeApp from './App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  React.createElement(React.StrictMode, null,
-    React.createElement(SeedsOfHopeApp)
-  )
+  <React.StrictMode>
+    <SeedsOfHopeApp />
+  </React.StrictMode>
 );
