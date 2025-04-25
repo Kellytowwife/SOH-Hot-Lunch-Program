@@ -1,16 +1,22 @@
-# Seeds of Hope Hot Lunch Program
+# Seeds of Hope Hot Lunch Program App
 
-A simple, tablet-friendly React app for Seeds of Hope volunteers to:
-- Check in clients for hot lunch
-- Register new clients
-- Track food box requests
+This is a simple, tablet-friendly React app built with Vite to help manage Seeds of Hope's hot lunch program. It provides quick access to Google Forms for:
 
-This app uses **Google Forms** for data entry and **Vercel** for deployment.
+- ✅ Daily Attendance
+- 🧾 New Client Registration
+- 🥫 Food Box Requests
 
-### 🛠 Built With:
-- React (via Vite)
+### How It Works
+
+Each button opens a corresponding Google Form in a new tab. Submissions go directly into linked Google Sheets for tracking.
+
+### Built With
+
+- React
+- Vite
 - Google Forms
-- Vercel
+- GitHub + Vercel
 
-### 📦 Project Structure
+### Live App
 
+👉 [Visit the Live App](https://your-vercel-link.vercel.app)
