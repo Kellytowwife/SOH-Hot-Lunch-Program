@@ -1,0 +1,15 @@
+{
+  "short_name": "SOH Lunch",
+  "name": "Seeds of Hope Hot Lunch",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50"
+}
